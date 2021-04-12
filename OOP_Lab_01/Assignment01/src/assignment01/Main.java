@@ -9,6 +9,7 @@ public class Main {
         System.out.println("\t\t\t    DHA SUFFA UNIVERSITY");
         System.out.println("\t\t\t---------------------------");
         System.out.println("\t\t\t  Transcript");
+        dhasd
         
         System.out.println("---------------------------------------------------------------");
         System.out.print("Name = Asma Qaiser \t\t");
