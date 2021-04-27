@@ -5,27 +5,15 @@
  */
 package com.mycompany.test;
 
-/**
- *
- * @author afaqs
- */
+import java.util.Scanner;
+
+
+
+
 public class test1 {
-     int age;
-    
-    test1(int a){
-        age =a;
-    }
-    void display(){
-       
-        System.out.println("Hello hi " + age);
-    }
     public static void main(String[] args) {
-        test1 obj;
-       obj= new test1(25);
-       obj.display();
-        System.out.println(age);
-       
-       
+     double  x = 2 % 2 + 2 * 2 - 2 / 2; 
+        System.out.println(x);
     }
     
 }
